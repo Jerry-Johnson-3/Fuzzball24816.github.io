@@ -6,10 +6,10 @@
       <div>
         <div class="title">&lt;About&gt;</div>
         Welcome to my corner of the web! I'm Nicholas, a web developer with a passion
-        for design and functionality. Whether it's crafting captivating websites
-        or designing serene garden layouts, I thrive on bringing dreams to life.
-        Let's work together to build your digital oasis that reflects your unique
-        vision and resonates with your audience. Let's make magic happen!
+        for design and functionality. Whether it's crafting captivating websites or
+        designing serene garden layouts, I thrive on bringing dreams to life. Let's
+        work together to build your digital oasis that reflects your unique vision
+        and resonates with your audience. Let's make magic happen!
       </div>
 
       <div class="flex-with-gap">
